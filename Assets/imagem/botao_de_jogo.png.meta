@@ -126,7 +126,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -598,7 +598,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      botao_de_jogo_0: 8328624821136823911
+      botao_de_jogo_1: -520718145479904089
+      botao_de_jogo_10: -7893508673558829048
+      botao_de_jogo_11: 6876580477635653810
+      botao_de_jogo_12: -6961538022527393610
+      botao_de_jogo_13: 4546022355736402440
+      botao_de_jogo_14: -2548068050976064753
+      botao_de_jogo_15: 3812019055909567111
+      botao_de_jogo_16: -7935827653066959564
+      botao_de_jogo_17: -6344201348996539229
+      botao_de_jogo_2: 2869842809705484510
+      botao_de_jogo_3: 4335037000244048744
+      botao_de_jogo_4: -1643935430711305550
+      botao_de_jogo_5: 8855110283712306580
+      botao_de_jogo_6: 5699687278912819778
+      botao_de_jogo_7: -368469351132598748
+      botao_de_jogo_8: -794717697843384345
+      botao_de_jogo_9: -6301959410263550319
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

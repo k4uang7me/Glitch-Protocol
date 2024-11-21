@@ -126,7 +126,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -598,7 +598,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      botao_de_joog_2_0: 7166248156583849245
+      botao_de_joog_2_1: 7376844067326406135
+      botao_de_joog_2_10: 5253051771350412313
+      botao_de_joog_2_11: -7439901178981047935
+      botao_de_joog_2_12: -5924244666821104716
+      botao_de_joog_2_13: 305543233575351413
+      botao_de_joog_2_14: 1337947782236079529
+      botao_de_joog_2_15: 7003268524954099601
+      botao_de_joog_2_16: 175673979415206964
+      botao_de_joog_2_17: 1948597753082507958
+      botao_de_joog_2_2: -8591021114228514223
+      botao_de_joog_2_3: -31020997425653108
+      botao_de_joog_2_4: -302437641265688529
+      botao_de_joog_2_5: 5540161034230668952
+      botao_de_joog_2_6: 257807924743973118
+      botao_de_joog_2_7: -5339218644342081729
+      botao_de_joog_2_8: 5905915833050416422
+      botao_de_joog_2_9: -8263947505720032769
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

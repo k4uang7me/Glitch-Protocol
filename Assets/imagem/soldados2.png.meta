@@ -84,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -248,7 +248,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      soldados2_0: 21309460573880883
+      soldados2_1: 5512901675877126805
+      soldados2_2: 5471502306272346736
+      soldados2_3: 2023859671589609562
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
